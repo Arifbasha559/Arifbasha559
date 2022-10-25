@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arifbasha559
 - 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning Front End development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
